@@ -1,0 +1,67 @@
+:root {
+  /* DESIGN SYSTEM */
+  /* COLORS DS */
+  /* PRIMARY */
+  --gradient-1-0: hsl(6, 100%, 80%);
+  --gradient-1-100: hsl(335, 100%, 65%);
+  /* NEUTRAL */
+  --blue-pale: hsl(243, 100%, 93%);
+  --blue-grayish: hsl(229, 7%, 55%);
+  --blue-dark: hsl(228, 56%, 26%);
+  --blue-very-dark: hsl(229, 57%, 11%);
+  /* WHITE */
+  --white: hsl(0, 0%, 100%);
+
+  /* TYPOGRAPHY DS */
+  --text-family: "Raleway", sans-serif;
+  /* TEXT PRESET 1 */
+  --text-1-size: 4rem;
+  --text-1-weight: 700;
+  --text-1-height: 4rem;
+  --text-1-spacing: 0rem;
+  /* TEXT PRESET 2 */
+  --text-2-size: 1.2rem;
+  --text-2-weight: 700;
+  --text-2-height: 1.2rem;
+  --text-2-spacing: 0rem;
+  /* TEXT PRESET 2 SPACED */
+  --text-2-spaced-spacing: 0.1rem;
+  /* TEXT PRESET 3 */
+  --text-3-size: 1.4rem;
+  --text-3-weight: 400;
+  --text-3-height: 1.4rem;
+  --text-3-spacing: 0rem;
+  /* TEXT PRESET 3 BOLD */
+  --text-3-bold-weight: 700;
+
+  /* PAGE */
+  /* COLORS */
+  --background-page-color: var(--blue-very-dark);
+  --background-section-color: var(--blue-dark);
+  --background-btn: var(--blue-very-dark);
+  --background-header: var(--white);
+  --background-progression-bar: var(--blue-very-dark);
+  --progression-bar-circle: var(--white);
+  --text-body: var(--blue-pale);
+  --text-header-number: var(--blue-very-dark);
+  --text-header: var(--blue-grayish);
+
+  /* GRADIENT */
+  --gradient-background: var(--gradient-1-0);
+  --gradient-1-moz: -moz-linear-gradient(
+    90deg,
+    var(--gradient-1-0) 0%,
+    var(--gradient-1-100) 100%
+  );
+  --gradient-1-webkit: -webkit-linear-gradient(
+    90deg,
+    var(--gradient-1-0) 0%,
+    var(--gradient-1-100) 100%
+  );
+  --gradient-1: linear-gradient(
+    90deg,
+    var(--gradient-1-0) 0%,
+    var(--gradient-1-100) 100%
+  );
+  --gradient-a-filter: filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffa399",endColorstr="#ff4d97",GradientType=1);
+}

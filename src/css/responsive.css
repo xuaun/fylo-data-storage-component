@@ -1,0 +1,38 @@
+@media (max-width: 58rem) {
+  /* GLOBAL */
+
+  .main {
+    flex-direction: column;
+    gap: 0rem;
+  }
+
+  /* STORAGE */
+
+  .storage {
+    padding: 3.2rem 3.2rem 5.2rem;
+  }
+
+  .storage__progression {
+    margin-bottom: 1rem;
+  }
+
+  .storage__left {
+    border-bottom-right-radius: 1rem;
+    top: 78%;
+    right: 50%;
+    transform: translateX(50%);
+  }
+
+  .storage::after {
+    display: none;
+  }
+}
+
+@media (max-width: 23.5rem) {
+  /* PAGE BACKGROUND */
+
+  .page {
+    background: url(../images/bg-mobile.png) bottom no-repeat,
+      var(--background-page-color);
+  }
+}
