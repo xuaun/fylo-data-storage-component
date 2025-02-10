@@ -63,5 +63,5 @@
     var(--gradient-1-0) 0%,
     var(--gradient-1-100) 100%
   );
-  --gradient-a-filter: filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffa399",endColorstr="#ff4d97",GradientType=1);
+  --gradient-a-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffa399",endColorstr="#ff4d97",GradientType=1);
 }
