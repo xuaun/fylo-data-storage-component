@@ -92,7 +92,7 @@ html {
   background: var(--gradient-1-moz);
   background: var(--gradient-1-webkit);
   background: var(--gradient-1);
-  filter: var(--gradient-a-filter);
+  filter: var(--gradient-1-filter);
   position: relative;
 }
 
