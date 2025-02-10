@@ -46,8 +46,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/xuaun/fylo-data-storage-component) and [my Frontend Mentor solution page](https://your-live-site-url.com)
-- Live Site URL: [Live Page](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/xuaun/fylo-data-storage-component) and [my Frontend Mentor solution page](https://www.frontendmentor.io/solutions/responsive-fylo-data-storage-component-TAEMujbyUi)
+- Live Site URL: [Live Page](https://xuaun.github.io/fylo-data-storage-component/)
 
 ## My process
 
@@ -140,8 +140,8 @@ Os usuários devem ser capazes de:
 
 ### <p id="links-pt">Links</p>
 
-- Link da solução: [Repositório no GitHub](https://github.com/xuaun/fylo-data-storage-component) e a [página da minha solução no Frontend Mentor](https://your-live-site-url.com)
-- Site com a solução: [Página do projeto no ar](https://your-live-site-url.com)
+- Link da solução: [Repositório no GitHub](https://github.com/xuaun/fylo-data-storage-component) e a [página da minha solução no Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-fylo-data-storage-component-TAEMujbyUi)
+- Site com a solução: [Página do projeto no ar](https://xuaun.github.io/fylo-data-storage-component/)
 
 ## Meu processo
 
