@@ -101,7 +101,7 @@ ____
 
 ## Contexto
 
-Esta é uma solução para o [desafio de componente de armazenamento de dados Fylo no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas.
+Esta é uma solução para o [desafio de componente de armazenamento de dados Fylo no Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas.
 
 > Seu desafio é criar esse componente de armazenamento de dados e fazer com que ele tenha a aparência mais próxima possível do design.
 
